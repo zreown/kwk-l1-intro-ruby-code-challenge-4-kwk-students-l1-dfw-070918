@@ -1,4 +1,3 @@
-
 ### Least Coins Challenge
 <img src="https://after-school-assets.s3.amazonaws.com/challenge.png" width="200px" align="right" hspace="10"> 
 
@@ -9,4 +8,4 @@ Given a number of cents as an argument, the method should return a hash with the
 Run `learn` to check your answer!
 
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-ruby-code-challenge-4' title='Least Coins Challenge'>Least Coins Challenge</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>KWK-L1 Least Coins Challenge</p>
