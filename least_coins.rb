@@ -29,6 +29,6 @@ end
 return money
 end
 
-least_coins(29)
+puts least_coins(29)
 
 
